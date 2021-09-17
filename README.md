@@ -1,2 +1,2 @@
 # Pose-Estimation-AI
-Computer Vision based Pose Estimation for different situations
+Computer Vision based Pose Estimation for different behaviors
