@@ -1,0 +1,202 @@
+{
+    "diccionario": [
+        {
+            "NOSE_x1": "x1",
+            "NOSE_y1": "y1",
+            "NOSE_z1": "z1",
+            "NOSE_v1": "v1"
+        },
+        {
+            "LEFT_EYE_INNER_x2": "x2",
+            "LEFT_EYE_INNER_y2": "y2",
+            "LEFT_EYE_INNER_z2": "z2",
+            "LEFT_EYE_INNER_v2": "v2"
+        },
+        {
+            "LEFT_EYE_x3": "x3",
+            "LEFT_EYE_y3": "y3",
+            "LEFT_EYE_z3": "z3",
+            "LEFT_EYE_v3": "v3"
+        },
+        {
+            "LEFT_EYE_OUTER_x4": "x4",
+            "LEFT_EYE_OUTER_y4": "y4",
+            "LEFT_EYE_OUTER_z4": "z4",
+            "LEFT_EYE_OUTER_v4": "v4"
+        },
+        {
+            "RIGHT_EYE_INNER_x5": "x5",
+            "RIGHT_EYE_INNER_y5": "y5",
+            "RIGHT_EYE_INNER_z5": "z5",
+            "RIGHT_EYE_INNER_v5": "v5"
+        },
+        {
+            "RIGHT_EYE_x6": "x6",
+            "RIGHT_EYE_y6": "y6",
+            "RIGHT_EYE_z6": "z6",
+            "RIGHT_EYE_v6": "v6"
+        },
+        {
+            "RIGHT_EYE_OUTER_x7": "x7",
+            "RIGHT_EYE_OUTER_y7": "y7",
+            "RIGHT_EYE_OUTER_z7": "z7",
+            "RIGHT_EYE_OUTER_v7": "v7"
+        },
+        {
+            "LEFT_EAR_x8": "x8",
+            "LEFT_EAR_y8": "y8",
+            "LEFT_EAR_z8": "z8",
+            "LEFT_EAR_v8": "v8"
+        },
+        {
+            "RIGHT_EAR_x9": "x9",
+            "RIGHT_EAR_y9": "y9",
+            "RIGHT_EAR_z9": "z9",
+            "RIGHT_EAR_v9": "v9"
+        },
+        {
+            "MOUTH_LEFT_x10": "x10",
+            "MOUTH_LEFT_y10": "y10",
+            "MOUTH_LEFT_z10": "z10",
+            "MOUTH_LEFT_v10": "v10"
+        },
+        {
+            "MOUTH_RIGHT_x11": "x11",
+            "MOUTH_RIGHT_y11": "y11",
+            "MOUTH_RIGHT_z11": "z11",
+            "MOUTH_RIGHT_v11": "v11"
+        },
+        {
+            "LEFT_SHOULDER_x12": "x12",
+            "LEFT_SHOULDER_y12": "y12",
+            "LEFT_SHOULDER_z12": "z12",
+            "LEFT_SHOULDER_v12": "v12"
+        },
+        {
+            "RIGHT_SHOULDER_x13": "x13",
+            "RIGHT_SHOULDER_y13": "y13",
+            "RIGHT_SHOULDER_z13": "z13",
+            "RIGHT_SHOULDER_v13": "v13"
+        },
+        {
+            "LEFT_ELBOW_x14": "x14",
+            "LEFT_ELBOW_y14": "y14",
+            "LEFT_ELBOW_z14": "z14",
+            "LEFT_ELBOW_v14": "v14"
+        },
+        {
+            "RIGHT_ELBOW_x15": "x15",
+            "RIGHT_ELBOW_y15": "y15",
+            "RIGHT_ELBOW_z15": "z15",
+            "RIGHT_ELBOW_v15": "v15"
+        },
+        {
+            "LEFT_WRIST_x16": "x16",
+            "LEFT_WRIST_y16": "y16",
+            "LEFT_WRIST_z16": "z16",
+            "LEFT_WRIST_v16": "v16"
+        },
+        {
+            "RIGHT_WRIST_x17": "x17",
+            "RIGHT_WRIST_y17": "y17",
+            "RIGHT_WRIST_z17": "z17",
+            "RIGHT_WRIST_v17": "v17"
+        },
+        {
+            "LEFT_PINKY_x18": "x18",
+            "LEFT_PINKY_y18": "y18",
+            "LEFT_PINKY_z18": "z18",
+            "LEFT_PINKY_v18": "v18"
+        },
+        {
+            "RIGHT_PINKY_x19": "x19",
+            "RIGHT_PINKY_y19": "y19",
+            "RIGHT_PINKY_z19": "z19",
+            "RIGHT_PINKY_v19": "v19"
+        },
+        {
+            "LEFT_INDEX_x20": "x20",
+            "LEFT_INDEX_y20": "y20",
+            "LEFT_INDEX_z20": "z20",
+            "LEFT_INDEX_v20": "v20"
+        },
+        {
+            "RIGHT_INDEX_x21": "x21",
+            "RIGHT_INDEX_y21": "y21",
+            "RIGHT_INDEX_z21": "z21",
+            "RIGHT_INDEX_v21": "v21"
+        },
+        {
+            "LEFT_THUMB_x22": "x22",
+            "LEFT_THUMB_y22": "y22",
+            "LEFT_THUMB_z22": "z22",
+            "LEFT_THUMB_v22": "v22"
+        },
+        {
+            "RIGHT_THUMB_x23": "x23",
+            "RIGHT_THUMB_y23": "y23",
+            "RIGHT_THUMB_z23": "z23",
+            "RIGHT_THUMB_v23": "v23"
+        },
+        {
+            "LEFT_HIP_x24": "x24",
+            "LEFT_HIP_y24": "y24",
+            "LEFT_HIP_z24": "z24",
+            "LEFT_HIP_v24": "v24"
+        },
+        {
+            "RIGHT_HIP_x25": "x25",
+            "RIGHT_HIP_y25": "y25",
+            "RIGHT_HIP_z25": "z25",
+            "RIGHT_HIP_v25": "v25"
+        },
+        {
+            "LEFT_KNEE_x26": "x26",
+            "LEFT_KNEE_y26": "y26",
+            "LEFT_KNEE_z26": "z26",
+            "LEFT_KNEE_v26": "v26"
+        },
+        {
+            "RIGHT_KNEE_x27": "x27",
+            "RIGHT_KNEE_y27": "y27",
+            "RIGHT_KNEE_z27": "z27",
+            "RIGHT_KNEE_v27": "v27"
+        },
+        {
+            "LEFT_ANKLE_x28": "x28",
+            "LEFT_ANKLE_y28": "y28",
+            "LEFT_ANKLE_z28": "z28",
+            "LEFT_ANKLE_v28": "v28"
+        },
+        {
+            "RIGHT_ANKLE_x29": "x29",
+            "RIGHT_ANKLE_y29": "y29",
+            "RIGHT_ANKLE_z29": "z29",
+            "RIGHT_ANKLE_v29": "v29"
+        },
+        {
+            "LEFT_HEEL_x30": "x30",
+            "LEFT_HEEL_y30": "y30",
+            "LEFT_HEEL_z30": "z30",
+            "LEFT_HEEL_v30": "v30"
+        },
+        {
+            "RIGHT_HEEL_x31": "x31",
+            "RIGHT_HEEL_y31": "y31",
+            "RIGHT_HEEL_z31": "z31",
+            "RIGHT_HEEL_v31": "v31"
+        },
+        {
+            "LEFT_FOOT_INDEX_x32": "x32",
+            "LEFT_FOOT_INDEX_y32": "y32",
+            "LEFT_FOOT_INDEX_z32": "z32",
+            "LEFT_FOOT_INDEX_v32": "v32"
+        },
+        {
+            "RIGHT_FOOT_INDEX_x33": "x33",
+            "RIGHT_FOOT_INDEX_y33": "y33",
+            "RIGHT_FOOT_INDEX_z33": "z33",
+            "RIGHT_FOOT_INDEX_v33": "v33"
+        }
+    ]
+}
